@@ -68,17 +68,17 @@ content:
         sub_title: Administrador de sistemas
         caption: Abril 2018 - Present
         quote: >
-         Sistemas Operativos: Linux, Unix
-         Automatización y Control de Versiones: Ansible, Puppet
-         Virtualización y Contenerización: Docker, Kubernetes, VMware, Proxmox.
-         Redes y Seguridad: TCP/IP, VPNs, Firewalld, PFSENSE.
-         Bases de Datos: MySQL, MariaDB, Maxscale
-         Herramientas de Monitoreo: Nagios, Check-MK, PMM, Grafana, ELK.
-         Integración Continua y Despliegue Continuo (CI/CD): GitLab CI.
-         Lenguajes de Scripting: Python, Bash.
-         Gestión de Servidores Web y Aplicaciones: Nginx, PHP-FPM, LMS Moodle.
-         Metodologías de Desarrollo: Kanban, Scrum.
-         Plataformas Cloud: GCP, Huawei Cloud.        
+         <p> <b>Sistemas Operativos:</b> Linux, Unix</p>
+         <p> <b>Automatización y Control de Versiones:</b> Ansible, Puppet</p>
+         <p> <b>Virtualización y Contenerización:</b> Docker, Kubernetes, VMware, Proxmox</p>
+         <p> <b>Redes y Seguridad:</b> TCP/IP, VPNs, Firewalld, PFSENSE</p>
+         <p> <b>Bases de Datos:</b> MySQL, MariaDB, Maxscale</p>
+         <p> <b>Herramientas de Monitoreo:</b> Nagios, Check-MK, PMM, Grafana, ELK</p>
+         <p> <b>Integración Continua y Despliegue Continuo (CI/CD):</b> GitLab CI</p>
+         <p> <b>Lenguajes de Scripting:</b> Python, Bash, API Huawei Cloud</p>
+         <p> <b>Gestión de Servidores Web y Aplicaciones:</b> Nginx, PHP-FPM, LMS Moodle</p>
+         <p> <b>Metodologías de Desarrollo:</b> Kanban, Scrum</p>
+         <p> <b>Plataformas Cloud:</b> GCP, Huawei Cloud</p>        
          description: | # this will include new lines to allow paragraphs
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
