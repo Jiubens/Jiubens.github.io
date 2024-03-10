@@ -48,12 +48,12 @@ linkedin_username: ruben-pedreros-pedrero
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
- Especialista en Tecnología y Operaciones: Con experiencia multifacética como DevOps y SysAdmin, mi misión es optimizar la infraestructura y los procesos de desarrollo. 💻🔧
- Solucionador de Problemas: Mi enfoque se centra en encontrar soluciones creativas para desafíos complejos. Con habilidades en automatización, virtualización y contenerización. 🛠️💡
- Experto en Herramientas y Tecnologías: Conocimiento de herramientas como Docker, Kubernetes, Ansible y Git, me ha permitido orquestar entornos complejos y gestionar configuraciones a gran escala. Mi experiencia abarca tanto entornos locales como soluciones en la nube. ☁️🚀
- Gestión Proactiva de Incidentes y Monitoreo: Implemento prácticas de sysadmin para garantizar la confiabilidad y el rendimiento de las aplicaciones. A través de monitoreo avanzado y análisis predictivos, he minimizado los tiempos de inactividad y optimizado la experiencia del usuario. 🚨📊
- Compromiso con la Mejora Continua: Estoy constantemente explorando nuevas tecnologías y metodologías. Mi objetivo es impulsar la innovación y fomentar una cultura de mejora continua en todos los proyectos en los que participo. 🚀🔄
- Habilidades Interpersonales y Colaborativas: Además de mis habilidades técnicas, tengo una fuerte capacidad para trabajar en equipo y comunicarme eficazmente. He colaborado estrechamente con equipos de desarrollo y operaciones para establecer procesos fluidos y una colaboración productiva. 🤝💬
+ <p> Especialista en Tecnología y Operaciones: Con experiencia multifacética como DevOps y SysAdmin, mi misión es optimizar la infraestructura y los procesos de desarrollo. 💻🔧 </p>
+ <p> Solucionador de Problemas: Mi enfoque se centra en encontrar soluciones creativas para desafíos complejos. Con habilidades en automatización, virtualización y contenerización. 🛠️💡 </p>
+ <p> Experto en Herramientas y Tecnologías: Conocimiento de herramientas como Docker, Kubernetes, Ansible y Git, me ha permitido orquestar entornos complejos y gestionar configuraciones a gran escala. Mi experiencia abarca tanto entornos locales como soluciones en la nube. ☁️🚀 </p>
+ <p> Gestión Proactiva de Incidentes y Monitoreo: Implemento prácticas de sysadmin para garantizar la confiabilidad y el rendimiento de las aplicaciones. A través de monitoreo avanzado y análisis predictivos, he minimizado los tiempos de inactividad y optimizado la experiencia del usuario. 🚨📊 </p>
+ <p> Compromiso con la Mejora Continua: Estoy constantemente explorando nuevas tecnologías y metodologías. Mi objetivo es impulsar la innovación y fomentar una cultura de mejora continua en todos los proyectos en los que participo. 🚀🔄 </p>
+ <p> Habilidades Interpersonales y Colaborativas: Además de mis habilidades técnicas, tengo una fuerte capacidad para trabajar en equipo y comunicarme eficazmente. He colaborado estrechamente con equipos de desarrollo y operaciones para establecer procesos fluidos y una colaboración productiva. 🤝💬 </p>
 
 I am most skilled in: <mark>GCP</mark> and <mark>Eating Pizza</mark>
 
