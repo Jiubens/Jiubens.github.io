@@ -62,7 +62,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: MindFree Ingeniería - Chile 🇨🇱 
+        title: MindFree Ingeniería - 🇨🇱 
         link: https://mindfree.cl
         # link_text: https://mindfree.cl
         sub_title: Administrador de sistemas
@@ -83,7 +83,7 @@ content:
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
       - layout: left
-        title: Penta Vida - Chile 🇨🇱
+        title: Penta Vida - 🇨🇱
         link: https://www.pentavida.cl
         # link_text: https://www.pentavida.cl/
         sub_title: Administrador de sistemas
@@ -103,7 +103,7 @@ content:
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
       - layout: left
-        title: Soporte.cl - Chile 🇨🇱
+        title: Soporte.cl - 🇨🇱
         link: https://soporte.cl/
         # link_text: https://soporte.cl/
         sub_title: Administrador de sistemas
@@ -124,7 +124,7 @@ content:
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
       - layout: left
-        title: Assoft Informatica - Chile 🇨🇱
+        title: Assoft Informatica - 🇨🇱
         link: https://www.assoft.cl/
         # link_text: https://www.assoft.cl/
         sub_title: Administrador de sistemas
@@ -143,7 +143,7 @@ content:
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
       - layout: left
-        title: Freelancer - España 🇪🇸  
+        title: Freelancer - 🇪🇸  
         # link: https://
         # link_text: https://
         sub_title: Soporte Tecnico Microinformatica y/o Redes
@@ -159,7 +159,7 @@ content:
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
       - layout: left
-        title: Informatica Libre - España 🇪🇸  
+        title: Informatica Libre - 🇪🇸  
         # link: https://
         # link_text: https://
         sub_title: Practicas en Empresa 
