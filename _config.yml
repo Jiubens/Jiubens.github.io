@@ -150,11 +150,25 @@ content:
         caption: Enero 2012 - Diciembre 2012
         quote: >
           <p>Instalación y actualización de software y controladores en sistemas Windows</p>
-          <p>Solución de problemas comunes de Windows, como errores de sistema,bloqueos y problemas de red</p>
+          <p>Solución de problemas comunes de Windows, como errores de sistema,bloqueos y problemas de red</b>
           <p>Resolución de problemas de hardware y software para usuarios finales</p>
           <p>Administración de políticas de seguridad y permisos en entornos Windows</p>
           <p>Asistencia en la configuración de correos electrónicos y aplicaciones en dispositivos Windows.
           <p>Seguimiento y resolución de incidencias de usuario</p>
+        description: | # this will include new lines to allow paragraphs
+            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+
+      - layout: left
+        title: Informatica Libre - España 🇪🇸  
+        # link: https://
+        # link_text: https://
+        sub_title: Practicas en Empresa 
+        caption: Julio 2010 - Octubre 2010
+        quote: >
+          <p><b>Gestión Avanzada de Usuarios y Permisos en Entornos Linux:</b> Lideré la administración de usuarios y permisos en entornos Linux, aplicando configuraciones avanzadas para garantizar la seguridad y la integridad del sistema</b>
+          <p><b>Despliegue y Mantenimiento de Servidores basados en Linux:</b> Implementé y gestioné servidores basados en Linux para diversas aplicaciones, asegurando la disponibilidad y el rendimiento óptimo de los servicios</b>
+          <p><b>Resolución de Problemas en Sistemas Molinux:</b> Desarrollé habilidades específicas para la resolución de problemas en sistemas Molinux, identificando y solucionando posibles conflictos para mantener la estabilidad del sistema operativo</b>
+          <p><b>Automatización de Tareas con Scripts Bash:</b> Mejoré la eficiencia operativa mediante la creación y ejecución de scripts Bash para automatizar tareas recurrentes y simplificar procesos administrativos</b>
         description: | # this will include new lines to allow paragraphs
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
