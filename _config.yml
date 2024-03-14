@@ -178,7 +178,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Instituto IACC
+        title: Instituto IACC 🇨🇱
         link: https://www.iacc.cl/
         caption: 2016 - 2017
         sub_title: Diplomado en Gestión de Proyectos Informáticos
