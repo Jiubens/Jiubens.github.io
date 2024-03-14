@@ -172,18 +172,14 @@ content:
         description: | # this will include new lines to allow paragraphs
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
-
-
-
-
-
-
+##EDUCACION##
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Instituto IACC
+        link: https://www.iacc.cl/
         caption: 2016 - 2017
         sub_title: Diplomado en Gestión de Proyectos Informáticos
         quote: >
@@ -193,21 +189,23 @@ content:
 
       - layout: left
         title: IES Don Bosco - Albacete 🇪🇸
+        link: https://www.iesdonbosco.com/
         caption: 2008 - 2010
-        sub_title: Administración de Sistemas Informáticos en Red
+        sub_title: Sistemas de Telecomunicaciones e Informáticos
         quote: >
           El IES Don Bosco fue inaugurado en 1977 como "Instituto Politécnico de Albacete". En la actualidad imparte Ciclos Formativos.
         description: | # this will include new lines to allow paragraphs
           Como Técnico Superior en Sistemas de Telecomunicaciones e Informáticos, me destaco en la implantación y administración de sistemas informáticos en diversos entornos. Poseo experiencia sólida en la gestión de conexiones en redes locales y extensas, así como en la optimización de procesos de información.
 
       - layout: left
-        title: Instituto IACC
-        caption: 2016 - 2017
-        sub_title: Diplomado en Gestión de Proyectos Informáticos
+        title: IES Leonardo da Vinci – Albacete 🇪🇸
+        link: https://www.iesleonardodavinci.com/
+        caption: 2010 - 2012
+        sub_title: Administración de Sistemas Informáticos en Red
         quote: >
-          IACC (Instituto Profesional y Centro de Formación Técnica) ofrece programas educativos en modalidad online, brindando oportunidades de formación a distancia en diversas áreas. Destaca por su enfoque innovador y accesibilidad para aquellos que buscan ampliar sus conocimientos y habilidades.
+          El I.E.S. Leonardo Da Vinci surge en el curso 1983/1984 como Instituto de Formación Profesional
         description: | # this will include new lines to allow paragraphs
-          El Diplomado en Gestión de Proyectos Informáticos se centra en dotar a los participantes de herramientas clave para abordar proyectos eficientemente, destacando la aplicación del estándar PMBOK. A través de una metodología teórico-práctica, se exploran los fundamentos y áreas de conocimiento de la gestión de proyectos, culminando en la adquisición de habilidades esenciales para planificar, ejecutar y cerrar proyectos con éxito, especialmente enfocado en proyectos informáticos.
+          Como Técnico en Administración de Sistemas Informáticos en Red, cuento con la capacidad para configurar, administrar y mantener sistemas informáticos, incluyendo la infraestructura de redes, servidores y bases de datos. 
 
 
 
