@@ -187,13 +187,19 @@ content:
         caption: 2016 - 2017
         sub_title: Diplomado en Gestión de Proyectos Informáticos
         quote: >
-          IACC (Instituto Profesional y Centro de Formación Técnica) ofrece programas educativos en modalidad online, brindando oportunidades de formación a distancia en diversas áreas. Destaca por su enfoque innovador y accesibilidad para aquellos que buscan ampliar sus conocimientos y habilidades.
+          IACC (Instituto Profesional y Centro de Formación Técnica) ofrece programas educativos en modalidad online.
         description: | # this will include new lines to allow paragraphs
           El Diplomado en Gestión de Proyectos Informáticos se centra en dotar a los participantes de herramientas clave para abordar proyectos eficientemente, destacando la aplicación del estándar PMBOK. A través de una metodología teórico-práctica, se exploran los fundamentos y áreas de conocimiento de la gestión de proyectos, culminando en la adquisición de habilidades esenciales para planificar, ejecutar y cerrar proyectos con éxito, especialmente enfocado en proyectos informáticos.
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
+      - layout: left
+        title: IES Don Bosco - Albacete 🇪🇸
+        caption: 2008 - 2010
+        sub_title: Administración de Sistemas Informáticos en Red
+        quote: >
+          El IES Don Bosco fue inaugurado en 1977 como "Instituto Politécnico de Albacete". En la actualidad imparte Ciclos Formativos.
+        description: | # this will include new lines to allow paragraphs
+          Como Técnico Superior en Sistemas de Telecomunicaciones e Informáticos, me destaco en la implantación y administración de sistemas informáticos en diversos entornos. Poseo experiencia sólida en la gestión de conexiones en redes locales y extensas, así como en la optimización de procesos de información.
+
       - layout: left
         title: Instituto IACC
         caption: 2016 - 2017
@@ -202,15 +208,6 @@ content:
           IACC (Instituto Profesional y Centro de Formación Técnica) ofrece programas educativos en modalidad online, brindando oportunidades de formación a distancia en diversas áreas. Destaca por su enfoque innovador y accesibilidad para aquellos que buscan ampliar sus conocimientos y habilidades.
         description: | # this will include new lines to allow paragraphs
           El Diplomado en Gestión de Proyectos Informáticos se centra en dotar a los participantes de herramientas clave para abordar proyectos eficientemente, destacando la aplicación del estándar PMBOK. A través de una metodología teórico-práctica, se exploran los fundamentos y áreas de conocimiento de la gestión de proyectos, culminando en la adquisición de habilidades esenciales para planificar, ejecutar y cerrar proyectos con éxito, especialmente enfocado en proyectos informáticos.
-
-      - layout: left
-        title: IES Don Bosco - Albacete
-        caption: 2008 - 2010
-        sub_title: Administración de Sistemas Informáticos en Red
-        #quote: >
-        #  El IES Don Bosco fue inaugurado en 1977 como "Instituto Politécnico de Albacete". En la actualidad imparte Primer y Segundo Ciclo de ESO, Bachillerato y trece Ciclos Formativos.
-        description: | # this will include new lines to allow paragraphs
-          Como Técnico Superior en Sistemas de Telecomunicaciones e Informáticos, me destaco en la implantación y administración de sistemas informáticos en diversos entornos. Poseo experiencia sólida en la gestión de conexiones en redes locales y extensas, así como en la optimización de procesos de información.
 
 
 
