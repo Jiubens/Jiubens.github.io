@@ -203,9 +203,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           El Diplomado en Gestión de Proyectos Informáticos se centra en dotar a los participantes de herramientas clave para abordar proyectos eficientemente, destacando la aplicación del estándar PMBOK. A través de una metodología teórico-práctica, se exploran los fundamentos y áreas de conocimiento de la gestión de proyectos, culminando en la adquisición de habilidades esenciales para planificar, ejecutar y cerrar proyectos con éxito, especialmente enfocado en proyectos informáticos.
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
       - layout: left
         title: IES Don Bosco - Albacete
         caption: 2008 - 2010
