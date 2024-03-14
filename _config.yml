@@ -189,7 +189,7 @@ content:
         quote: >
           IACC (Instituto Profesional y Centro de Formación Técnica) ofrece programas educativos en modalidad online, brindando oportunidades de formación a distancia en diversas áreas. Destaca por su enfoque innovador y accesibilidad para aquellos que buscan ampliar sus conocimientos y habilidades.
         description: | # this will include new lines to allow paragraphs
-          El Programa de Formación Continua se centra en dotar a los participantes de herramientas clave para abordar proyectos eficientemente, destacando la aplicación del estándar PMBOK. A través de una metodología teórico-práctica, se exploran los fundamentos y áreas de conocimiento de la gestión de proyectos, culminando en la adquisición de habilidades esenciales para planificar, ejecutar y cerrar proyectos con éxito, especialmente enfocado en proyectos informáticos.
+          El Diplomado en Gestión de Proyectos Informáticos se centra en dotar a los participantes de herramientas clave para abordar proyectos eficientemente, destacando la aplicación del estándar PMBOK. A través de una metodología teórico-práctica, se exploran los fundamentos y áreas de conocimiento de la gestión de proyectos, culminando en la adquisición de habilidades esenciales para planificar, ejecutar y cerrar proyectos con éxito, especialmente enfocado en proyectos informáticos.
           
   - title: Licencias y Certificaciones # Title for the section
     layout: list # Type of content section (list/text)
